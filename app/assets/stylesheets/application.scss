@@ -14,8 +14,13 @@
  *= require_self
  */
 
+ @import "bootstrap";
+
  @import "home";
  @import "navbar";
+
+ @import "font-awesome";
+
 
  .banner {
   background: red;
